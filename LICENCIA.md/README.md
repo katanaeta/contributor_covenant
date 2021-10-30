@@ -1,6 +1,6 @@
-### Creative Commons Attribution 4.0 International Public License
-
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+### Licencia pública internacional Creative Commons Atribución 4.0
+#### PACTO REAL E INPUNE ####
+Al ejercer los Derechos con licencia (definida a continuación), usted acepta y acepta regirse por los términos y condiciones de esta Licencia pública internacional Creative Commons Attribution 4.0 ("Licencia pública"). En la medida en que esta Licencia pública puede interpretar como un contrato, se le otorgan los Derechos con licencia en consideración de Su aceptación de estos términos y condiciones, y el Licenciante le otorga dichos derechos en consideración de los beneficios que el Licenciante recibe al poner a disposición el Material con licencia. bajo estos términos y condicion.
 
 **Section 1 – Definitions.**
 
